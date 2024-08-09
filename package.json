@@ -1,0 +1,24 @@
+{
+  "name": "login-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitParise/login-service.git"
+  },
+  "keywords": [
+    "login",
+    "jwt",
+    "express"
+  ],
+  "author": "sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitParise/login-service/issues"
+  },
+  "homepage": "https://github.com/SumitParise/login-service#readme",
+  "description": ""
+}
